@@ -1,2 +1,2 @@
-# MediaBazarApp
-University Project
+# Media Bazaar Group 7
+
